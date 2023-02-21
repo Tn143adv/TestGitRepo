@@ -1,1 +1,2 @@
-Hi, this is m first testing file for git.
+Hi, this is my first testing file for git.
+New content to see
